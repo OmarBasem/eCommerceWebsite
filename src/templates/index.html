@@ -1,0 +1,16 @@
+{% load render_bundle from webpack_loader %}
+<html>
+  <head>
+    <link rel="shortcut icon" href="https://dvypnsdccqka0.cloudfront.net/media/favicon.png" type="image/x-icon">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>ComfrtShop</title>
+      <script src="https://hosted.paysafe.com/threedsecure/js/latest/paysafe.threedsecure.min.js"></script>
+
+  </head>
+  <body>
+    <div id="root">
+    </div>
+      {% render_bundle 'main' %}
+  </body>
+</html>
