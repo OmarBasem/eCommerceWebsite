@@ -1,3 +1,3 @@
 # ComfrtShop.Com
 
-A demo eCommerce website (<a href="https://comftshop.com">comfrtshop.com<a/>) developed using React & Django
+A demo eCommerce website (<a href="https://comfrtshop.com">comfrtshop.com<a/>) developed using React & Django
